@@ -1,2 +1,2 @@
 # NBA-Player-Impact-Model
-Creating a model to determine NBA player Salary based on stats (including advanced stats)
+This project analyzes the relationship between NBA player salaries and performance statistics using Python. Player salary data was combined with basketball metrics such as points, assists, usage rate, rebounds, and advanced statistics to explore which factors are most associated with player compensation. The project includes data cleaning, feature engineering, exploratory visualizations, correlation analysis, and regression modeling to better understand how on-court production relates to salary.
